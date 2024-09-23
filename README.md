@@ -1,2 +1,3 @@
 # teamti
-git repo for studying
+git repo for studying, buat timwork
+
